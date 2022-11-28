@@ -38,7 +38,7 @@
 
 <div align="center">
     <a title="html" href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-    <a title="php" href="https://php.net" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+    <a title="php" href="https://php.net" target="_blank"><img src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"/></a>
     <a title="css" href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a title="js" href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
     <a title="c++" href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
