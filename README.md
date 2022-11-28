@@ -35,7 +35,7 @@
   </a>
 </p>
 
-##⚡Skills:
+## ⚡Skills:
 
 <div align="center">
     <a title="html" href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
@@ -64,7 +64,7 @@
     <a title="adobe illustrator" href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/></a>
     <a title="camtasia" href="https://www.techsmith.com/video-editor.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/></a>
 
-##🚀 Activities:
+## 🚀Activities:
 
 <table style="width:100%;">
   <tr>
