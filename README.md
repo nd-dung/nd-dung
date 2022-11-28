@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Nguyen Dinh Dung</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Đình Dũng</h1>
 <p align="center">
-  <h3 align="center">A romantic developer from Vietnam</h3>
+  <h3 align="center">A web developer from Vietnam</h3>
 </p>
 
 - ✍ I'm a student of: [Hanoi Open University](https://hou.edu.vn/)
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-## Skills:
+##⚡Skills:
 
 <div align="center">
     <a title="html" href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
@@ -64,7 +64,7 @@
     <a title="adobe illustrator" href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/></a>
     <a title="camtasia" href="https://www.techsmith.com/video-editor.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/></a>
 
-## Activities:
+##🚀 Activities:
 
 <table style="width:100%;">
   <tr>
