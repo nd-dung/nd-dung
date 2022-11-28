@@ -8,8 +8,7 @@
 
 - ✍ I'm a student of: [Hanoi Open University](https://hou.edu.vn/)
 - 🌱 I’m currently learning **Information Technology**
-- 🔭 I’m currently working on **Vietnam Leaders Toastmasters**
-- ⚡ Fact: **In a relationship**
+- 🔭 I’m currently working on **[Vietnam Leaders Toastmasters](https://www.toastmasters.org/)**
 <br />
 
 ## 📫 How to reach out me:
