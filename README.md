@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **In a relationship**
 <br />
 
-## 📫 How to reach me:
+## 📫 How to reach out me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dung-nguyen-dinh-869732258/" target="_blank">
