@@ -68,7 +68,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nd-dung" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%Used$Languages" alt="nd-dung" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=nd-dung&show_icons=true&theme=highcontrast" alt="nd-dung" width="100%"/>
     </td>
     <td>
@@ -77,9 +77,10 @@
       </p>
     </td>
   </tr>
+ 
+</table>
   <br/>
    <a href="https://github.com/nd-dung"><img alt="Dung's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nd-dung&custom_title=nd-dung's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-</table>
 
 
