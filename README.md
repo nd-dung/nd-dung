@@ -68,7 +68,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most% Used% Languages" alt="nd-dung" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%Used%Languages" alt="nd-dung" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=nd-dung&show_icons=true&theme=highcontrast" alt="nd-dung" width="100%"/>
     </td>
     <td>
