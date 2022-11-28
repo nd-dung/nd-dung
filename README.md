@@ -51,7 +51,6 @@
 </div>
 <div align="center">
     <a title="mongodb" href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-    <a title="vscode" href="https://code.visualstudio.com/" target="_blank"><img width="42px" src="img/vscode.png"/></a>
     <a title="git" href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a title="github" href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/000000/github.png"/></a>
     <a title="gitlab" href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
