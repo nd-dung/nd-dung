@@ -11,29 +11,6 @@
 - 🔭 I’m currently working on **[Vietnam Leaders Toastmasters](https://www.toastmasters.org/)**
 <br />
 
-## 📫 How to reach out me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dung-nguyen-dinh-869732258/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/dinh.dung.03.02" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/nd-dung" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
 ## ⚡Skills:
 
 <div align="center">
@@ -83,4 +60,26 @@
    <a href="https://github.com/nd-dung"><img alt="Dung's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nd-dung&custom_title=nd-dung's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+## 📫 How to reach out me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dung-nguyen-dinh-869732258/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/dinh.dung.03.02" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/nd-dung" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  <a href="" alt="Kaggle" target="_blank" >
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  </a>
+  <a href="" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
