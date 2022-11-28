@@ -6,7 +6,7 @@
   <h3 align="center">A web developer from Vietnam</h3>
 </p>
 
-- ✍ I'm a student of: [Hanoi Open University](https://hou.edu.vn/)
+- ✍ I'm a student of: **[Hanoi Open University](https://hou.edu.vn/)**
 - 🌱 I’m currently learning **Information Technology**
 - 🔭 I’m currently working on **[Vietnam Leaders Toastmasters](https://www.toastmasters.org/)**
 <br />
